@@ -1,0 +1,20 @@
+.fondo {
+    background-image: url(./images/Salento);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+p {
+    font-size: 40;
+    color: azure;
+    font-family: 'Bangers', cursive;
+}
+
+img {
+    border-radius: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+}
